@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/labwork5_mkk.dir/main.cpp.o CMakeFiles/labwork5_mkk.dir/game.cpp.o CMakeFiles/labwork5_mkk.dir/Parser.cpp.o -o labwork5_mkk

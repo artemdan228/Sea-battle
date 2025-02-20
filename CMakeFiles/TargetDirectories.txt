@@ -1,0 +1,3 @@
+/Users/artem/labwork5-artemdan228/CMakeFiles/labwork5_mkk.dir
+/Users/artem/labwork5-artemdan228/CMakeFiles/edit_cache.dir
+/Users/artem/labwork5-artemdan228/CMakeFiles/rebuild_cache.dir
