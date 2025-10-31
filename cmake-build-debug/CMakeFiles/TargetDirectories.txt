@@ -1,3 +1,0 @@
-/Users/artem/labwork5-artemdan228/cmake-build-debug/CMakeFiles/labwork5_artemdan228.dir
-/Users/artem/labwork5-artemdan228/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/artem/labwork5-artemdan228/cmake-build-debug/CMakeFiles/rebuild_cache.dir
